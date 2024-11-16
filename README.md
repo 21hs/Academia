@@ -50,7 +50,10 @@ cd sistema-de-academia
 npm install
 Inicie o servidor local:
 
+ ```
 npm start
+ ```
+
 Acesse o sistema: Abra o navegador e acesse http://localhost:3000 para ver o sistema em funcionamento.
 
 📝 Exemplo de Tela
@@ -72,7 +75,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 🌐 Contato
 Se você tiver alguma dúvida ou sugestão, entre em contato através do meu email:
 
-Email: contato@academia.com
+Email:
 GitHub: https://github.com/21hs
 📢 Agradecimentos
 Agradecemos a todos os contribuidores e aos alunos que utilizaram o sistema. Esperamos que esse projeto ajude a melhorar a gestão das academias e a evolução dos praticantes de atividades físicas.
